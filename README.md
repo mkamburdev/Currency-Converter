@@ -24,8 +24,7 @@ The [Coinbase API](https://api.coinbase.com/v2/prices/EUR-TRY/spot) is used to f
 
 ## Screenshots
 
-
-<img src ="./public/images/responsive.png" width="800px" alt="Project Screenshot">
+<img src ="./build/img/responsive.png" width="800px" alt="Project Screenshot">
 
 ## Features
 
@@ -69,7 +68,7 @@ The [Coinbase API](https://api.coinbase.com/v2/prices/EUR-TRY/spot) is used to f
   
 ## Demo
 
-[]()
+[https://currency-converter-sigma-pink.vercel.app/](https://currency-converter-sigma-pink.vercel.app/)
 
   
 ## Author
