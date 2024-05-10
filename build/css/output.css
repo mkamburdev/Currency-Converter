@@ -554,25 +554,16 @@ video {
   --tw-contain-style:  ;
 }
 
-.fixed {
-  position: fixed;
-}
-
-.inset-x-0 {
-  left: 0px;
-  right: 0px;
-}
-
-.bottom-0 {
-  bottom: 0px;
-}
-
-.top-0 {
-  top: 0px;
+.relative {
+  position: relative;
 }
 
 .col-span-2 {
   grid-column: span 2 / span 2;
+}
+
+.col-auto {
+  grid-column: auto;
 }
 
 .mx-auto {
@@ -584,36 +575,16 @@ video {
   margin-bottom: 0.25rem;
 }
 
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
 .mt-1 {
   margin-top: 0.25rem;
 }
 
 .mt-2 {
   margin-top: 0.5rem;
-}
-
-.mt-4 {
-  margin-top: 1rem;
-}
-
-.mt-14 {
-  margin-top: 3.5rem;
-}
-
-.mt-12 {
-  margin-top: 3rem;
-}
-
-.mt-16 {
-  margin-top: 4rem;
-}
-
-.mt-24 {
-  margin-top: 6rem;
-}
-
-.mt-28 {
-  margin-top: 7rem;
 }
 
 .block {
@@ -632,32 +603,44 @@ video {
   display: grid;
 }
 
-.h-52 {
-  height: 13rem;
+.h-32 {
+  height: 8rem;
 }
 
 .h-full {
   height: 100%;
 }
 
+.h-svh {
+  height: 100svh;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
 
-.w-11\/12 {
-  width: 91.666667%;
+.w-32 {
+  width: 8rem;
 }
 
-.w-44 {
-  width: 11rem;
-}
-
-.w-52 {
-  width: 13rem;
+.w-96 {
+  width: 24rem;
 }
 
 .w-full {
   width: 100%;
+}
+
+.w-1\/3 {
+  width: 33.333333%;
+}
+
+.w-2\/3 {
+  width: 66.666667%;
+}
+
+.max-w-80 {
+  max-width: 20rem;
 }
 
 .max-w-xl {
@@ -682,6 +665,14 @@ video {
 
 .justify-center {
   justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-around {
+  justify-content: space-around;
 }
 
 .gap-4 {
@@ -727,10 +718,6 @@ video {
   background-color: rgb(255 255 255 / 0.4);
 }
 
-.p-4 {
-  padding: 1rem;
-}
-
 .p-8 {
   padding: 2rem;
 }
@@ -750,6 +737,19 @@ video {
   padding-bottom: 0.5rem;
 }
 
+.text-center {
+  text-align: center;
+}
+
+.font-nunito {
+  font-family: Inter, sans-serif;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
@@ -758,6 +758,10 @@ video {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
+}
+
+.font-bold {
+  font-weight: 700;
 }
 
 .font-medium {
