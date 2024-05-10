@@ -1,14 +1,12 @@
 <div align="center">
+<img src ="./build/img/logo.png" width="150px" alt="Currency Converter Project">
+</div>
+
+<div align="center">
 
 # Currency Converter
 
 </div>
-
-<div align="center">
-<img src ="./build/img/logo.png" width="150px" alt="Currency Converter Project">
-</div>
-
-<br />
 
 <div align="center">
   
