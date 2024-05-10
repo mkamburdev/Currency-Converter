@@ -48,13 +48,10 @@ The [Coinbase API](https://api.coinbase.com/v2/prices/EUR-TRY/spot) is used to f
 
 | Color             | HEX         |
 | ---------------- | --------------- |
-| Grey 100         | ![#f7fafc](https://via.placeholder.com/10/f7fafc?text=+) #f7fafc |
-| White/30         | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
-| Neutral 950      | ![#1e293b](https://via.placeholder.com/10/1e293b?text=+) #1e293b |
-| White/40         | ![#f9fafb](https://via.placeholder.com/10/f9fafb?text=+) #f9fafb |
-| Slate 100        | ![#8898aa](https://via.placeholder.com/10/8898aa?text=+) #8898aa |
-| Slate 200        | ![#687c94](https://via.placeholder.com/10/687c94?text=+) #687c94 |
-| Slate 900        | ![#1a202c](https://via.placeholder.com/10/1a202c?text=+) #1a202c |
+| Cod Gray         | ![#0a0a0a](https://via.placeholder.com/10/0a0a0a?text=+) #0a0a0a |
+| Mischka         | ![#d1d5db](https://via.placeholder.com/10/d1d5db?text=+) #d1d5db |
+| Athens Gray      | ![#e5e7eb](https://via.placeholder.com/10/e5e7eb?text=+) #e5e7eb |
+| Catskill White         | ![#f1f5f9](https://via.placeholder.com/10/f1f5f9?text=+) #f1f5f9 |
 
 ## What I learned
 
@@ -71,6 +68,5 @@ The [Coinbase API](https://api.coinbase.com/v2/prices/EUR-TRY/spot) is used to f
   
 ## Author
 
-- Website - [bento.me/mkambur](https://bento.me/mkambur)
 - E-mail - [mkambur@proton.me](mkambur@proton.me)
 - LinkedIn - [@mkambur](https://linkedin.com/in/mkambur)
