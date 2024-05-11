@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[**Screenshots**](#screenshots) || [**Features**](#features) || [**Technologies**](#technologies) || [**Color Reference**](#color-reference) || [**What I learned**](#what-i-learned) || [**Demo**](#demo) || [**Author**](#author)
+[**Screenshots**](#screenshots) || [**Features**](#features) || [**Technologies**](#technologies) || [**Color Reference**](#color-reference) || [**Fonts**](#fonts) || [**Photos**](#photos) || [**What I learned**](#what-i-learned) || [**Demo**](#demo) || [**Author**](#author)
 
 </div>
 
