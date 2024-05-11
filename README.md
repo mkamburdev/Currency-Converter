@@ -53,6 +53,14 @@ The [Coinbase API](https://api.coinbase.com/v2/prices/EUR-TRY/spot) is used to f
 | Athens Gray      | ![#e5e7eb](https://via.placeholder.com/10/e5e7eb?text=+) #e5e7eb |
 | Catskill White         | ![#f1f5f9](https://via.placeholder.com/10/f1f5f9?text=+) #f1f5f9 |
 
+## Fonts
+- Google Fonts
+- Inter
+- Thasadith
+
+## Photos
+- Unsplash
+
 ## What I learned
 
 - Enhanced my skills in front-end development using Tailwind CSS.
