@@ -71,7 +71,7 @@ The [Coinbase API](https://api.coinbase.com/v2/prices/EUR-TRY/spot) is used to f
   
 ## Demo
 
-[https://currency-converter-sigma-pink.vercel.app/](https://currency-converter-sigma-pink.vercel.app/)
+[https://currency-converter-mk.vercel.app/](https://currency-converter-mk.vercel.app/)
 
   
 ## Author
